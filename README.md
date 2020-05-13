@@ -7,8 +7,13 @@ a fully featured content management system, and compatability
 with all major browsers including Google Chrome, 
 Microsoft Edge, and Mozilla FireFox.
 
-Current Version := 1.0
+Current Version := 1.1
+Changelog: 
+  - Recommit of 1.0 w/ file hierarchy 
 
+
+# Version History
+Version 1.0
 Changelog:
   - Initial Commit
 
